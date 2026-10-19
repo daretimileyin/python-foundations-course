@@ -1,0 +1,5 @@
+Python is a programming language that lets you work quickly
+and integrate systems more effectively.
+
+It was created by Guido van Rossum and first released in 1991.
+Python's name comes from Monty Python, not the snake!

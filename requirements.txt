@@ -1,0 +1,4 @@
+# Packages used later in the course (Modules 09 and 10)
+pytest>=8.0
+requests>=2.31
+python-dotenv>=1.0
